@@ -203,7 +203,7 @@
                             </ul>
                         </li> -->
                         <li class="nav-item">
-                            <a href="/admin/dashboard" class="nav-link">
+                            <a href="#" class="nav-link">
                                 <i class="nav-icon fas fa-tachometer-alt"></i>
                                 <p>
                                     Dashboard
@@ -212,7 +212,7 @@
                         </li>
 
                         <li class="nav-item">
-                            <a href="/admin/appointments" class="nav-link">
+                            <a href="#" class="nav-link">
                                 <i class="nav-icon fas fa-calendar-alt"></i>
                                 <p>
                                     Appointments
@@ -246,16 +246,6 @@
                                 </p>
                             </a>
                         </li>
-
-                        <li class="nav-item">
-                            <a href="#" class="nav-link">
-                                <i class="nav-icon fas fa-sign-out-alt"></i>
-                                <p>
-                                    Logout
-                                </p>
-                            </a>
-                        </li>
-
                     </ul>
                 </nav>
 

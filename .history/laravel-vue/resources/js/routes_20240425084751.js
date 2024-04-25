@@ -1,5 +1,4 @@
 import Dashboard from './components/Dashboard.vue';
-import ListAppointments from './components/pages/appointments/ListAppointments.vue';
 
 export default [
     {
@@ -10,7 +9,7 @@ export default [
 
     {
         path: '/admin/Appointments',
-        name: 'admin.Appointments',
-        component: ListAppointments,
+        name: admin.Appointments,
+        component: Appointments,
     }
 ]

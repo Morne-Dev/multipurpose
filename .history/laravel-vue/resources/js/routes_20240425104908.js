@@ -1,5 +1,5 @@
 import Dashboard from './components/Dashboard.vue';
-import ListAppointments from './components/pages/appointments/ListAppointments.vue';
+import ListAppointments from './pages/appointments/ListAppointments.vue'
 
 export default [
     {
