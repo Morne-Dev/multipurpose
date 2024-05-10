@@ -203,7 +203,7 @@
                             </ul>
                         </li> -->
                         <li class="nav-item">
-                            <router-link to="/admin/dashboard" active-class="active" class="nav-link">
+                            <router-link to="/admin/dashboard" class="nav-link">
                                 <i class="nav-icon fas fa-tachometer-alt"></i>
                                 <p>
                                     Dashboard
@@ -212,7 +212,7 @@
                         </li>
 
                         <li class="nav-item">
-                            <router-link to="/admin/appointments" active-class="active" class="nav-link">
+                            <router-link to="/admin/appointments" class="nav-link">
                                 <i class="nav-icon fas fa-calendar-alt"></i>
                                 <p>
                                     Appointments
@@ -221,7 +221,7 @@
                         </li>
 
                         <li class="nav-item">
-                            <router-link to="/admin/users" active-class="active" class="nav-link">
+                            <router-link to="#" class="nav-link">
                                 <i class="nav-icon fas fa-users"></i>
                                 <p>
                                     Users
@@ -230,7 +230,7 @@
                         </li>
 
                         <li class="nav-item">
-                            <router-link to="/admin/settings" active-class="active" class="nav-link">
+                            <router-link to="#" class="nav-link">
                                 <i class="nav-icon fas fa-cog"></i>
                                 <p>
                                     Settings
@@ -239,7 +239,7 @@
                         </li>
 
                         <li class="nav-item">
-                            <router-link to="/admin/profile" active-class="active" class="nav-link">
+                            <router-link to="#" class="nav-link">
                                 <i class="nav-icon fas fa-user"></i>
                                 <p>
                                     Profile
@@ -248,12 +248,12 @@
                         </li>
 
                         <li class="nav-item">
-                            <a href="#" class="nav-link">
+                            <router-link to="#" class="nav-link">
                                 <i class="nav-icon fas fa-sign-out-alt"></i>
                                 <p>
                                     Logout
                                 </p>
-                            </a>
+                            </router-link>
                         </li>
 
                     </ul>
